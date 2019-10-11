@@ -1,3 +1,8 @@
+GTSRB
+traffic-signs-data
+lenet.data-000000-of-0001
+lenet.index
+lenet.meta
 data
 .ipynb_checkpoints
 *.h5
